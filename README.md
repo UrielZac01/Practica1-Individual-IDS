@@ -46,7 +46,7 @@ Crea una base de datos en MySQL, por ejemplo:
 
 CREATE DATABASE practica1 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
-![Pantalla de MySQL](imagenes/captura1.png)
+![Pantalla de MySQL](imágenes/captura1.png)
 
 2. Configura tus credenciales de tu base de datos
 
@@ -60,13 +60,13 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
-![Pantalla de Configuracion MySQL](imagenes/captura2.png)
+![Pantalla de Configuracion MySQL](imágenes/captura2.png)
 
 3. Comando que se ejecuta en la terminal:
 
 mvn clean install
 
-![Pantalla de Terminal](imagenes/captura3.png)
+![Pantalla de Terminal](imágenes/captura3.png)
 
 4. Ejecuta la aplicación
 
@@ -76,16 +76,16 @@ mvn spring-boot:run
 
 Login
 
-![Pantalla de Login](imagenes/captura4.png)
+![Pantalla de Login](imágenes/captura4.png)
 
-![Pantalla de Inicio](imagenes/captura7.png)
+![Pantalla de Inicio](imágenes/captura7.png)
 
 Registro
 
-![Pantalla de Registro](imagenes/captura5.png)
+![Pantalla de Registro](imágenes/captura5.png)
 
 Admin
 
-![Pantalla de Admin](imagenes/captura6.png)
+![Pantalla de Admin](imágenes/captura6.png)
 
-![Pantalla de Admin2](imagenes/captura8.png)
+![Pantalla de Admin2](imágenes/captura8.png)
